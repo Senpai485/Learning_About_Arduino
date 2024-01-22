@@ -42,3 +42,24 @@ else
 {
     //  caso nenhuma das condiçoes seja verdadeira
 }
+
+// Condiçoes de verificaão
+
+/* 
+< menor
+> maior
+<= menor ou igual
+>= maior ou igual
+!= diferente de
+== igual a
+*/
+x = 1
+y = 1    
+
+if(x == y) {
+  //true  
+}
+
+if(x != y){
+//false
+}
